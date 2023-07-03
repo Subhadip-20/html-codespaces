@@ -1,0 +1,16 @@
+*{
+    border:1px solid red;
+}
+#div1{
+    background-color: pink;
+}
+.bg1{
+    background-color: blue;
+}
+div[id='bg']{
+    background-color: chocolate;
+}
+div[id="div2"],h1{
+    color: darkcyan;
+
+}
