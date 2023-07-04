@@ -1,0 +1,31 @@
+#border{
+    border-style: solid;
+    padding: 30px;
+}
+#b1{
+    border-style: dashed;
+}
+#b2{
+    border-style: dotted;
+}
+#b3{
+    border-style: solid;
+}
+#b4{
+    border-style: inset;
+}
+#b5{
+    border-style: outset;
+}
+#b6{
+    border-style: groove;
+}
+#b7{
+    border-style: double;
+}
+#b8{
+    border-style: initial;
+}
+#b9{
+    border-style: inherit;
+}
