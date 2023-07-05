@@ -1,0 +1,13 @@
+#p1{
+    text-align: center;
+    background-color: chocolate;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#p2{
+    text-align: left;
+    background-color: olive;
+    background-image: url("https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01-750x750.jpg");
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
